@@ -18,3 +18,11 @@
     font-size: 95%;
     width: 25%;
   }
+  .img2{
+    float:left;
+    margin-right: 15px;
+    margin-bottom: 20px;
+  }
+  .div-mar{
+    margin-right: 15px;
+  }
