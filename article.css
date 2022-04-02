@@ -83,3 +83,7 @@ table {
   .div-mar{
     margin-right: 15px;
   }
+  .li1 {
+    display: block;
+    color: #666666;
+  }
