@@ -1,0 +1,9 @@
+.img1{
+    float:right;
+  }
+.underline{
+    border-bottom: 1px solid grey;
+  }
+.small-font{
+    font-size: small;
+}
