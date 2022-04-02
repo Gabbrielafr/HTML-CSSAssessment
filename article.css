@@ -54,6 +54,7 @@
   th {
  
     border:  #a2a9b1 1px solid;
+    text-align: center;
   }
   
   td {
@@ -78,7 +79,7 @@
   .h1{
     font-family:sans-serif;
   }
-  .h2{
+  .h2,h3,h4{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   .div-mar{
