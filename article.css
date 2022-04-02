@@ -7,3 +7,14 @@
 .small-font{
     font-size: small;
 }
+.center{
+    text-align: center;
+  }
+  .contents{
+    border: 1px solid #a2a9b1;
+    background-color: #f8f9fa;
+    padding: 5px;
+    padding-left: 0;
+    font-size: 95%;
+    width: 25%;
+  }
