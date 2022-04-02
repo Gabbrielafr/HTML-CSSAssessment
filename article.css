@@ -17,6 +17,7 @@
     padding-left: 0;
     font-size: 95%;
     width: 25%;
+    margin-bottom: 20px;
   }
   .img2{
     float:left;
@@ -42,7 +43,7 @@
     content: counters(item, ".") " ";
     counter-increment: item;
   }
-table {
+.table1 {
   background-color: #f8f9fa;
   color: #202122;
   margin: 1em 0;
@@ -87,3 +88,12 @@ table {
     display: block;
     color: #666666;
   }
+  .box{
+    margin: 30px;
+  }
+  .table2 {
+    margin: 1em 0;
+    }
+    .td2{
+      border: 0;
+    }
